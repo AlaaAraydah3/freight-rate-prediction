@@ -45,7 +45,7 @@ python -m pip install -r requirements.txt
 Run the model:
 
 ```bash
-python main.py
+python final.py
 ```
 
 Run the scorer:
