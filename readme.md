@@ -1,7 +1,5 @@
 # Freight Rate Prediction Challenge
 
-# Freight Rate Prediction
-
 Machine learning project for predicting freight load rates using the provided Spotter assessment data.
 
 ## Approach
